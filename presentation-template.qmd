@@ -1,7 +1,16 @@
 ---
-title: "presentation-template"
-author: author
-date: "2001-01-01"
+title: "The ODP and *YOU*"
+author: 
+  - name: Alexander Senetcky
+    id: as
+    orcid: 0009-0009-3730-5397
+    email: alexander.senetcky@ct.gov
+    affiliation:
+      - name: Connecticut Department of Public Health
+        city: Hartford
+        state: CT
+        url: https://portal.ct.gov/dph
+date: "2024-01-15"
 title-slide-attributes:
   data-background-image: dph_logo_horizontal_white.png
   data-background-size: 15%
@@ -28,16 +37,15 @@ Table of contents
 :::
 
 ::: {.column width="50%"}
-- Section 1
-- Section 2
-- Section 3
+- The ODP
+- The Journey to the ODP
 :::
 
 ::::
 
-# section slide {background-color="#3371E7"}
+# The ODP {background-color="#3371E7"}
 
-## normie slide
+## Automation is the name of the game
 
 {{< lipsum 1 >}}
 
