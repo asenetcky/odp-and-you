@@ -1,0 +1,46 @@
+---
+title: "presentation-template"
+author: author
+date: "2001-01-01"
+title-slide-attributes:
+  data-background-image: dph_logo_horizontal_white.png
+  data-background-size: 15%
+  data-background-position: center bottom
+  data-background-color: "#3371E7"
+  data-footer: false
+format: 
+  revealjs:
+    center-title-slide: true
+    footer: "Connecticut Public Health"
+    embed-resources: true
+editor: source
+---
+
+---
+:::: {.columns}
+
+
+::: {.column width="50%"}
+
+
+
+Table of contents
+:::
+
+::: {.column width="50%"}
+- Section 1
+- Section 2
+- Section 3
+:::
+
+::::
+
+# section slide {background-color="#3371E7"}
+
+## normie slide
+
+{{< lipsum 1 >}}
+
+
+
+
